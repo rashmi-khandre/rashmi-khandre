@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rashmi-khandre
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning B.Tech(Computer Engineering)
-- 💞️ I’m looking to collaborate on any technical projects related to data science.
+- 👀 I’m passionate about data science
+- 🌱 I have recently completed B.Tech(Computer Engineering)
+- 💞️ I’m actively looking for job role in data science.
 - 📫 How to reach me rash13khadre@gmail.com
 
 <!---
