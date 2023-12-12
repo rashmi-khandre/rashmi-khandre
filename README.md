@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @rashmi-khandre
-- 👀 I’m passionate about data science
+- 👀 I’m passionate about data science.
 - 🌱 I have recently completed B.Tech(Computer Engineering)
 - 💞️ I’m actively looking for job role in data science.
 - 📫 How to reach me rash13khadre@gmail.com
+- www.linkedin.com/in/rashmi-khandre-72a9461a4
+
+
+
+
+
+
 
 <!---
 rashmi-khandre/rashmi-khandre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
